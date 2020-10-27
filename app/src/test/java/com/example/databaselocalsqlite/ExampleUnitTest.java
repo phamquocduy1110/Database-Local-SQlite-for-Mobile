@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.databaselocalsqlite;
 
 import org.junit.Test;
 
